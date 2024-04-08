@@ -22,7 +22,7 @@ This project studies the effect of the choice of the access pattern to the eleme
 
 ```sh
 git clone https://github.com/anacarsi/22ws-CacheLocalityPerformance.git
-cd 23ws-LLMcoder
+cd 22ws-CacheLocalityPerformance
 ```
 
 ## Create A Virtual Environment (optional):
