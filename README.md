@@ -9,7 +9,7 @@
 
 # Introduction
 
-This project studies the effect of the choice of the access pattern to the elements of an N-dimensional vector on the time cost of reading, as well as the effects of physical parameters of the processor and cache memory
+This project studies the effect of the choice of the access pattern to the elements of an N-dimensional vector on the time cost of reading, as well as the effects of physical parameters of the processor and cache memory.
 
 # Requirements
 
