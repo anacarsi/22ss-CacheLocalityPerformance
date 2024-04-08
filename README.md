@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./images/readme_title.png" width="200" alt="LLMcoder Logo" />
+<img src="./images/readme_title.png" width="800" width="800" alt="Report title"/>
 
 </div>
 
@@ -54,3 +54,4 @@ pip install -e .
     url = {https://github.com/anacarsi/22ws-CacheLocalityPerformance}
 }
 ```
+
