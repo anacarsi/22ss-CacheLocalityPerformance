@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./images/readme_title.png" width="800" width="800" alt="Report title"/>
-
 </div>
 
 <h1 align="center" style="margin-top: 0px;"><b>Cache Locality Performance Study</h1>
